@@ -1,15 +1,15 @@
-### Table-Extractor PDF-to-Excel
+# Table-Extractor PDF-to-Excel
 
-## Simple project using Pyside2 and tabula to extract tables inside the pdf file
+### Simple project using Pyside2 and tabula to extract tables inside the pdf file
 
 Dependencies:
 - Java v8+
 
-## How to use
+### How to use
 
 ```Locate the pdf file and select destination folder to dump the extracted file then press extract```
 
-## Note 
+### Note 
 
 ```Program will stop at the page that doesn't contain table (maybe an image) and will not proceed to extract!```
 
